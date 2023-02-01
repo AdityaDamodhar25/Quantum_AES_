@@ -3,7 +3,7 @@
 ## Introduction
 
 An attempt at recreating Quantum circuit for Advanced Encryption Standard and its Experimental Realisation" by Subhash Shankar Pandey, Dhrubajyoti Sadhukhan, and Prasanta K. Panigrahi for large data sizes. We attempt to use a similar construction but scaled to be accomodated into the Qiskit Simulator. 
-Contains an account of learning done by us from the textbook on qiskit.org in the process of implementing the circuit.
+Contains an account of learning done by us from the [textbook](https://qiskit.org/textbook/preface.html) on [qiskit.org](https://qiskit.org/) in the process of implementing the circuit.
 
 ## Learning
 
